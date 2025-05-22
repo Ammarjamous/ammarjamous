@@ -1,8 +1,8 @@
 ## Hi there 👋
 - 🌱 I’m currently learning
- - Advanced Python/Java for backend development.
- - Cloud computing (AWS/Azure) and DevOps tools (Docker, Kubernetes).
- - Embedded systems (RTOS, ARM Cortex) or AI/ML (TensorFlow, PyTorch).
+  - Advanced Python/Java for backend development.
+  - Cloud computing (AWS/Azure) and DevOps tools (Docker, Kubernetes).
+  - Embedded systems (RTOS, ARM Cortex) or AI/ML (TensorFlow, PyTorch).
   
 - 🤔 I’m looking for help with
  - Optimizing my code/algorithms for better performance.
