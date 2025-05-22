@@ -12,8 +12,8 @@
   - Computer engineering struggles (we’re in this together!).
   - Turkish/Saudi tech job markets.
 - 📫 How to reach me:
-  - LinkedIn: [Your LinkedIn URL]
-  - Email: [Your Professional Email]
+  - LinkedIn: [AmmarJamous](https://www.linkedin.com/in/ammar-jamous-6248541b1/).
+  - Email: [ammar.ja.20@gmail.com]
   
 - ⚡ Fun fact:
   - "I automate tasks to save time… then waste it all on Stack Overflow."
